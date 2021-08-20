@@ -29,4 +29,8 @@ class ExampleInstrumentedTest {
     @Test fun multestFPass() {
         assertEquals(6 , 3*2)
     }
+
+    @Test fun multestFPass2() {
+        assertEquals(5 , 3*2)
+    }
 }
